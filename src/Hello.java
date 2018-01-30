@@ -8,6 +8,7 @@ public class Hello {
 		System.out.println("2035 Norhardt Drive #18B");
 		System.out.println("BrookField, WI");
 		System.out.println("17, Male");
+		System.out.println("play league of legends");
 	}
 
 }
